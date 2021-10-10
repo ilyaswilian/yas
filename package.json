@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "ilyxs",
+  "author": "ArugaZ",
   "repository": {
     "type": "git",
     "url": "https://github.com/ArugaZ/whatsapp-bot.git"
